@@ -1,0 +1,7 @@
+{
+  "name": "Copy of SkilledHelpers - No Poverty",
+  "description": "A platform connecting skilled workers with local opportunities to alleviate poverty and provide essential services.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
